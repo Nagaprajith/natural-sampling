@@ -1,6 +1,6 @@
 # Natural-Sampling
-212223060178
-NAGA PRAJITHN
+## 212223060178
+## NAGA PRAJITHN
 ## AIM
 Write a simple Natural sampling program using Python.
 
